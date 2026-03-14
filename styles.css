@@ -1,0 +1,116 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+body.dark-mode * {
+    color: #e0e0e0;
+}
+
+body.dark-mode .wrapper {
+    background-color: #121212;
+}
+
+body.dark-mode .navbar {
+    background-color: #1e1e1e;
+}
+
+body.dark-mode #hHeader {
+    background-color: #1e1e1e;
+}
+
+body.dark-mode #main {
+    background-color: #1e1e1e;
+}
+
+body.dark-mode #footer-cont {
+    background-color: #1e1e1e;
+}
+
+body.dark-mode .timecard-table {
+    background-color: #2d2d2d;
+}
+
+body.dark-mode .tc-punch-holder {
+    background-color: #2d2d2d;
+    border-color: #444444;
+}
+
+body.dark-mode #stdTimecard {
+    background-color: #1e1e1e;
+}
+
+body.dark-mode .timecard-table th {
+    background-color: #2d2d2d !important;
+    color: #e0e0e0 !important;
+    background-image: none !important;
+}
+
+body.dark-mode .tc-optional td {
+    background-color: #252525;
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .tc-container {
+    background-color: #1e1e1e;
+}
+
+body.dark-mode .tc-labels-bottom h4 {
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .clickable {
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .btn-small {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+}
+
+body.dark-mode .btn {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+}
+
+body.dark-mode .btn-group .btn,
+body.dark-mode .btn-group .btn:hover,
+body.dark-mode .btn-group .btn:focus,
+body.dark-mode .btn-group .btn:active {
+    background-color: #3a3a3a !important;
+    background-image: none !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+    box-shadow: none !important;
+}
+
+body.dark-mode .navbar .nav>li>a {
+    background-color: #1e1e1e !important;
+    background-image: none !important;
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .tc-month-day td {
+    background-color: #2d2d2d !important;
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .timecard-table thead td {
+    background-color: #2d2d2d !important;
+}
+
+body.dark-mode .tc-control-bar {
+    background: #1a4a6b !important;
+    border-color: #1a3a5c !important;
+}
+
+body.dark-mode .account-toggle li.account-name {
+    color: #7eb8d4 !important;
+}
+
+body.dark-mode .tc-optional-header {
+    background: #1a4a6b !important;
+    border-color: #1a3a5c !important;
+}

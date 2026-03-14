@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "TriNet Dark Mode",
+  "version": "1.0",
+  "description": "Dark mode for TriNet timecard",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Toggle Dark Mode",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+    "*://*.trinet.com/*",
+    "*://*.trinettime.com/*"
+],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
