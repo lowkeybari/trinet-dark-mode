@@ -114,3 +114,158 @@ body.dark-mode .tc-optional-header {
     background: #1a4a6b !important;
     border-color: #1a3a5c !important;
 }
+
+body.dark-mode .dropdown-menu {
+    background-color: #2d2d2d !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .dropdown-menu li a {
+    color: #e0e0e0 !important;
+    background-color: #2d2d2d !important;
+}
+
+body.dark-mode .dropdown-menu li a:hover {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .tab-content {
+    background-color: #2d2d2d !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .tab-content-pull-up {
+    background-color: #2d2d2d !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .tab-pane input,
+body.dark-mode .tab-pane select {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+}
+
+body.dark-mode .select2-container .select2-choice {
+    background-color: #3a3a3a !important;
+    background-image: none !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+}
+
+body.dark-mode .select2-drop {
+    background-color: #2d2d2d !important;
+    border-color: #555555 !important;
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .select2-results .select2-result-label {
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .select2-results .select2-highlighted {
+    background-color: #1a4a6b !important;
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .select2-search input {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+}
+
+body.dark-mode .footer {
+    background-color: #1e1e1e !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .slide-up-box {
+    background-color: #1e1e1e !important;
+}
+
+body.dark-mode .tab-pane input[type="text"],
+body.dark-mode .tab-pane input[type="date"],
+body.dark-mode .control-group input {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+}
+
+body.dark-mode .nav-tabs li a {
+    background-color: #2d2d2d !important;
+    color: #e0e0e0 !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .nav-tabs li.active a {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .slide-up-box .nav-tabs li.active a {
+    background-color: #3a3a3a !important;
+    background-image: none !important;
+    color: #e0e0e0 !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .slide-up-box .nav-tabs li a {
+    background-color: #2d2d2d !important;
+    background-image: none !important;
+    color: #e0e0e0 !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .input-prepend .add-on {
+    background-color: #3a3a3a !important;
+    border-color: #555555 !important;
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .punch-row-date,
+body.dark-mode .datepicker {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+}
+
+body.dark-mode .btn-success {
+    background-color: #1a6bbf !important;
+    background-image: none !important;
+    border-color: #1558a0 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .btn-success:hover {
+    background-color: #1558a0 !important;
+    background-image: none !important;
+}
+
+body.dark-mode .auth-container {
+    background-color: #1e1e1e !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .border-box {
+    background-color: #1e1e1e !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .okta-sign-in-header {
+    background-color: #1e1e1e !important;
+    border-color: #444444 !important;
+}
+
+body.dark-mode .o-form-label,
+body.dark-mode .okta-form-label {
+    color: #e0e0e0 !important;
+}
+
+body.dark-mode .o-form-input input,
+body.dark-mode #okta-sign-in input {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+}
