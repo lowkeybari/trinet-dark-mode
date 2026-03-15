@@ -269,3 +269,8 @@ body.dark-mode #okta-sign-in input {
     color: #e0e0e0 !important;
     border-color: #555555 !important;
 }
+
+body.dark-mode .select2-no-results {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+}
