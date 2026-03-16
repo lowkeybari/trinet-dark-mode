@@ -274,3 +274,27 @@ body.dark-mode .select2-no-results {
     background-color: #3a3a3a !important;
     color: #e0e0e0 !important;
 }
+
+body.dark-mode .btn-info {
+    background-color: #1a7abf !important;
+    background-image: none !important;
+    border-color: #1566a0 !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .btn-info:hover {
+    background-color: #1566a0 !important;
+    background-image: none !important;
+}
+
+body.dark-mode .btn-primary {
+    background-color: #e8621a !important;
+    background-image: none !important;
+    border-color: #c8521a !important;
+    color: #ffffff !important;
+}
+
+body.dark-mode .btn-primary:hover {
+    background-color: #c8521a !important;
+    background-image: none !important;
+}
