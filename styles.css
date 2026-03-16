@@ -169,12 +169,6 @@ body.dark-mode .select2-results .select2-highlighted {
     color: #e0e0e0 !important;
 }
 
-body.dark-mode .select2-search input {
-    background-color: #3a3a3a !important;
-    color: #e0e0e0 !important;
-    border-color: #555555 !important;
-}
-
 body.dark-mode .footer {
     background-color: #1e1e1e !important;
     border-color: #444444 !important;
@@ -299,10 +293,16 @@ body.dark-mode .btn-primary:hover {
     background-image: none !important;
 }
 
-body.dark-mode .select2-input:focus,
-body.dark-mode .select2-search input:focus {
+body.dark-mode .select2-search input,
+body.dark-mode .select2-search input:focus,
+body.dark-mode .select2-input {
     background-color: #3a3a3a !important;
+    background: #3a3a3a !important;
     color: #e0e0e0 !important;
     border-color: #555555 !important;
     outline: none !important;
+    -webkit-appearance: none !important;
+    box-shadow: 0 0 0px 1000px #3a3a3a inset !important;
+    -webkit-box-shadow: 0 0 0px 1000px #3a3a3a inset !important;
+    -webkit-text-fill-color: #e0e0e0 !important;
 }
