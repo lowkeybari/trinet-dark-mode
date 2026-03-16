@@ -298,3 +298,11 @@ body.dark-mode .btn-primary:hover {
     background-color: #c8521a !important;
     background-image: none !important;
 }
+
+body.dark-mode .select2-input:focus,
+body.dark-mode .select2-search input:focus {
+    background-color: #3a3a3a !important;
+    color: #e0e0e0 !important;
+    border-color: #555555 !important;
+    outline: none !important;
+}
